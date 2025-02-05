@@ -2,6 +2,8 @@
 
 Este é um projeto desenvolvido durante o curso **Desenvolvimento Web Completo - 20 cursos + 20 projetos** oferecido por **Jorge Sant Ana e Jamilton Damasceno** na plataforma **Udemy**. O objetivo deste projeto é criar um site simples de apresentação para uma modelo fictícia, **Anna Bella**, contendo informações sobre sua biografia, campanhas publicitárias e formas de contato. O projeto foi realizado para fins educacionais.
 
+link: https://modelo-anna-bella-projeto-ifwvcmjgj-elias-nery-limas-projects.vercel.app
+
 ## Funcionalidades
 
 - **Página Inicial**: Apresenta uma breve descrição sobre a modelo e fornece links para outras seções.
